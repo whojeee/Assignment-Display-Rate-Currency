@@ -1,0 +1,35 @@
+/* src/styles.css */
+body {
+    background-color: #ffa500; /* Warna Oranye */
+    font-family: Arial, sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  table {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white; /* Warna latar tabel */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f4a261; /* Warna header tabel */
+    color: white;
+    font-weight: bold;
+  }
+  
+  td {
+    font-size: 1rem;
+  }
+  
